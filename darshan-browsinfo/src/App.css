@@ -1,0 +1,60 @@
+.navbar {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+   }
+.container{
+    width: 100rem;
+}
+.h1-1{
+    margin-bottom: 20rem;
+}
+.h1-2{
+    text-align: center;
+}
+.container-2{
+    height: 500px;
+}
+.hr{
+    background-color: rgb(5, 5, 38);
+}
+.card{
+    background-color: rgba(255, 196, 229, 0.423);
+    box-shadow: 7px 7px 7px black;
+}
+.card-2{
+    background-color: rgba(8, 42, 60, 0.157);
+    box-shadow: 7px 7px 7px black;
+}
+h2{
+    text-align: center;
+    font-family: "";
+}
+.img-zoom-out {
+    transition: transform 1s ease; /* Adding transition for smooth effect */
+  }
+  
+  .img-zoom-out:hover {
+    transform: scale(0.8); /* Adjust the scale value as needed */
+  }
+  .card-3{
+    margin-top: 40px;
+    background-color: rgba(255, 219, 196, 0.257);
+    box-shadow: 5px 5px 5px black;
+  }
+  .h3{
+    font-family: "";
+  }
+  .contact{
+    margin-top: 4rem;
+  }
+  .contact-us{
+    background-color: rgba(215, 234, 250, 0.425);
+  }
+  .last
+  {
+    display: flex;
+  }
+  .last-button{
+    margin-left: 23rem;
+  }
